@@ -1,3 +1,3 @@
 ## Hello World
 
-[Main Liangnong website](http://liangnong.herokuapp.com/)
+[Main Liangnong website](https://liangnong.github.io)
